@@ -1,6 +1,6 @@
 # Electric-Vehicle-Market-Size-Analysis
 This repository contains an analysis of electric vehicles (EVs) to uncover key insights, including EV adoption trends over the years, geographical distribution, popular EV types, 
-and manufacturer-model preferences. Data-driven visualizations and statistical analysis help understand market trends and growth patterns.
+and manufacturer-model preferences. Data-driven visualizations and statistical analysis help understand market trends and growth patterns
 
 # Data
 The dataset provides insights into the electric vehicle (EV) population in the United States. It includes key details such as the model year, make, model, electric vehicle type
